@@ -3,7 +3,7 @@
 Simple mobile web app for sending data to a Splunk HTTP input. It measures the device motion and sends an event with 
 the intensity of the motion to Splunk.
 
-## Build/Deploy
+## Build
 
 1) Install NPM deps
 ```
@@ -57,3 +57,6 @@ crossOriginSharingPolicy = *
 
 If you wish to restrict cors calls to a specific domain replace the asterix with the domain name your are hosting 
 Parallel Piper on. 
+
+# Deploy on gh-pages
+ - just run `npm run deploy`
