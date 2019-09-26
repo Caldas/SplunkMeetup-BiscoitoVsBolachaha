@@ -1,7 +1,12 @@
-# Parallel Piper
+# Biscoito vs Bolachaha (inspired by Parallel Piper)
 
-Simple mobile web app for sending data to a Splunk HTTP input. It measures the device motion and sends an event with 
-the intensity of the motion to Splunk.
+This project was developed based on [Parallel Piper](https://github.com/splunk/parallel-piper) project and adjusted to be presented at VTEX Splunk Meetup using a contest againt the correct use name of `Biscoito` vs `Bolacha`.
+
+## Dashboard Sample
+
+Here is the dashboard sample used to demonstrate user usage and iteraction
+
+![image](https://user-images.githubusercontent.com/938045/65654486-64090000-dfef-11e9-9c30-dbd8d5b51a2d.png)
 
 ## Build
 
